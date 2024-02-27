@@ -1,1 +1,1 @@
-[DEMO](https://github.com/PanasiukNazar/SelezionaCasa---real-estate)
+[DEMO](https://panasiuknazar.github.io/SelezionaCasa---real-estate/)
